@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Android Projects
 - 📫 How to reach me 
 - 📧 Gmail: umaisshah5@gmail.com
-      Skype: umaisshah5
-      Facebook: umais.shah1
-      LinkedIn: umaisshah
+-    Skype: umaisshah5
+-    Facebook: umais.shah1
+-    LinkedIn: umaisshah
 
 <!---
 UmaisShah/UmaisShah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
